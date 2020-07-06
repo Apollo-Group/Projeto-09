@@ -1,6 +1,6 @@
 <img alt="Header" src="/assets/header.jpeg" />
 <h3 align="center">
-  Desafio 8: Crie um modelo de Machine Learning utilizando Regressāo Linear Múltipla
+  Desafio 9: Crie um modelo de Machine Learning utilizando K Nearest Neighbours
 </h3>
 
 <blockquote align="center">
@@ -25,7 +25,7 @@
 Nosso objetivo é construir um modelo de Machine Learning que seja capaz de fazer previsões sobre quais os dígitos escritos à mão no dataset do pacote scikit learning.
 Como no exemplo abaixo:
 
-<img alt="Header" src="/assets/digits.jpeg" />
+<img alt="Header" src="/assets/digits.png" />
 
 #### Acesso aos Dados:
 <a href="http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html">Clique Aqui</a>
